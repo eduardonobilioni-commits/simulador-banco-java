@@ -3,7 +3,7 @@ import java.util.ArrayList; // Importante para usar listas!
 
 public class SimuladorDeBanco {
     public static void main(String[] args) {
-        Scanner leitor = new Scanner(System.in);
+        Scanner leitor = new Scanner(System.in);// Scanner para ler a entrada do usuário
         double saldo = 1000.00;
         int opcao = 0;
 
@@ -22,9 +22,9 @@ public class SimuladorDeBanco {
                 System.out.print("Valor do saque: ");
                 double valorSaque = leitor.nextDouble();
                 if (valorSaque > saldo) {
-                    System.out.println("Erro: Saldo insuficiente!");
+                    System.out.println("Erro: Saldo insuficiente!");//
                 } else {
-                    saldo -= valorSaque;
+                    saldo -= valorSaque;//
 
                     historico.add("Saque: - R$ " + valorSaque);
                     System.out.println("Saque realizado!");
