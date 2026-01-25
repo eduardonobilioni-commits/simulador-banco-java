@@ -1,36 +1,42 @@
-# 🏦 Simulador de Banco em Java
+# Simulador de Banco em Java
 
-Projeto simples desenvolvido em Java para simular operações básicas de um sistema bancário via console, com foco no aprendizado de lógica de programação e conceitos iniciais da linguagem.
+Projeto simples desenvolvido em **Java**, criado com o objetivo de praticar lógica de programação e conceitos iniciais da linguagem.
 
----
-
-## 📋 Funcionalidades
-- Consulta de saldo
-- Saque com validação de saldo
-- Depósito
-- Exibição de extrato bancário
-- Menu interativo em loop até o usuário sair
+Este projeto faz parte dos meus estudos em Java e da minha formação em **Engenharia de Software**.
 
 ---
 
-## 🧠 Conceitos praticados
-- Estruturas condicionais (`if / else`)
-- Laços de repetição (`while`)
-- Entrada de dados com `Scanner`
-- Uso de `ArrayList` para histórico de transações
-- Variáveis e tipos primitivos
-- Organização básica de um fluxo de aplicação
+## 🚀 Funcionalidades
+
+- Consultar saldo
+- Realizar depósitos
+- Realizar saques
+- Visualizar extrato de transações
+- Menu interativo via terminal
 
 ---
-.idea/
-*.iml
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias Utilizadas
+
 - Java
-- Aplicação em console
+- IntelliJ IDEA
+- Git e GitHub
 
 ---
 
-## ▶️ Como executar
-1. Clone o repositório
-2. Compile o arquivo:
+## 📚 Conceitos Praticados
+
+- Estruturas condicionais (`if / else`)
+- Estruturas de repetição (`while`)
+- Listas (`ArrayList`)
+- Entrada de dados com `Scanner`
+- Lógica de programação
+- Organização de código
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/eduardonobilioni-commits/simulador-banco-java.git
