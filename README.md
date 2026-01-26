@@ -14,6 +14,10 @@ Este projeto faz parte dos meus estudos em Java e da minha formação em **Engen
 - Visualizar extrato de transações
 - Menu interativo via terminal
 
+## 🖥️ Exemplo de Execução
+
+![Execução do simulador de banco no terminal](execucao-terminal.jpg)
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
